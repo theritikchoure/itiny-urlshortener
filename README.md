@@ -4,6 +4,13 @@ This repository contains the implementation of a URL shortener service designed 
 
 ![URL Shortener System Design](./url-shortner-system-design.png)
 
+
+<video controls>
+  <source src="./itiny-url-shortener-demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 ## Key Components
 
 ### URL Shortener Service:
