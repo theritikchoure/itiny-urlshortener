@@ -1,14 +1,11 @@
 # URL Shortener System Design
 
+![Demo GIF of iTiny URL Shortener](./itiny-url-shortener-demo.gif)
+
+
 This repository contains the implementation of a URL shortener service designed to efficiently handle a high volume of URL shortening requests while ensuring scalability and minimal collision risk. The system is capable of generating short URLs and managing user analytics.
 
 ![URL Shortener System Design](./url-shortner-system-design.png)
-
-
-<video controls>
-  <source src="./itiny-url-shortener-demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 
 ## Key Components
